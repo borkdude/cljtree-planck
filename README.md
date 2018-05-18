@@ -28,4 +28,4 @@ The path argument is optional and will default to the current directory.
 
 - Install [planck](https://github.com/planck-repl/planck)
 - Clone this repo
-- Run `./cljtree.cljs`
+- Run `./cljtree`
