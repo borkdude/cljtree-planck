@@ -26,6 +26,7 @@ The path argument is optional and will default to the current directory.
 
 ## Run
 
+- Install [clojure](https://clojure.org/guides/getting_started)
 - Install [planck](https://github.com/planck-repl/planck)
 - Clone this repo
 - Run `./cljtree`
